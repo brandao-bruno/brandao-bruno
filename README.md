@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brandao-bruno
+- 👋 Hi, I’m Bruno Brandão
 - 👀 I’m interested in learning new coding languages and getting experience
 - 🌱 I’m currently learning information systems management
 - 💞️ I’m looking to collaborate on internships
